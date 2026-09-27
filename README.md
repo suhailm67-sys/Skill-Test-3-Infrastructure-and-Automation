@@ -63,3 +63,6 @@ From the repository root:
 <img width="1630" height="567" alt="image" src="https://github.com/user-attachments/assets/7c69bc45-fa17-4367-85bf-a66b88c44e53" />
 <img width="1645" height="622" alt="image" src="https://github.com/user-attachments/assets/d9ff6aea-c9fa-41b0-964c-19c27e73fbfd" />
 <img width="1627" height="667" alt="image" src="https://github.com/user-attachments/assets/5d454460-e8d0-41cd-93c5-dd301aa1bbbb" />
+
+### Destroying the Terraform since the application is working
+`terraform destroy` - <img width="1091" height="627" alt="image" src="https://github.com/user-attachments/assets/c18aea13-4ce6-48d0-994e-5db2831fb573" />
