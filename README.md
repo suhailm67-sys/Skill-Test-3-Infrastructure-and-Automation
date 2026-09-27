@@ -66,3 +66,10 @@ From the repository root:
 
 ### Destroying the Terraform since the application is working
 `terraform destroy` - <img width="1091" height="627" alt="image" src="https://github.com/user-attachments/assets/c18aea13-4ce6-48d0-994e-5db2831fb573" />
+
+## Since the application is working successfully on the URL: http://44.222.183.222 , the assignment is completed successfully. Refer the below screenshots of the application front page.
+<img width="1890" height="955" alt="image" src="https://github.com/user-attachments/assets/7431b662-e173-4561-a4f8-1b63bf920a33" />
+<img width="1636" height="722" alt="image" src="https://github.com/user-attachments/assets/6653ced5-d472-4ad6-a2c2-e2cd903cda54" />
+<img width="1436" height="942" alt="image" src="https://github.com/user-attachments/assets/860d9869-f5ff-4a1e-b802-b3e2cb9bc890" />
+
+## Architecture Diagram:
