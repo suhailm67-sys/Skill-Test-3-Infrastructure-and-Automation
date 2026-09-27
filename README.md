@@ -73,3 +73,4 @@ From the repository root:
 <img width="1436" height="942" alt="image" src="https://github.com/user-attachments/assets/860d9869-f5ff-4a1e-b802-b3e2cb9bc890" />
 
 ## Architecture Diagram:
+<img width="1536" height="1024" alt="AdobeExpressPhotos_5a7f8a5ca0d94d0f874e8bd47d1191ff_CopyEdited" src="https://github.com/user-attachments/assets/e86d43c3-4dbf-4823-bf28-4f51c4c5cc07" />
