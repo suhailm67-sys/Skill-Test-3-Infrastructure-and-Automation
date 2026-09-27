@@ -5,7 +5,7 @@
 `git clone https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation.git`
 
 ### Step 2: Create Dockerfiles for each of the 5 services
-1. User Service - backend/user-service/Dockerfile
+1. User Service - backend/user-service/Dockerfile - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/backend/user-service/Dockerfile
 2. Product Service - backend/product-service/Dockerfile
 3. Cart Service - backend/cart-service/Dockerfile
 4. Cart Service - backend/order-service/Dockerfile
