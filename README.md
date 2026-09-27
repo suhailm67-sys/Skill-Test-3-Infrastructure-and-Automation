@@ -58,3 +58,8 @@ From the repository root:
 ### Step 8: Verify Docker on EC2
 1. SSH to the instance and then `docker ps` - <img width="1870" height="346" alt="image" src="https://github.com/user-attachments/assets/ed96a250-aa55-491c-8cd7-9cd8fcd068c3" />
 2. Test the services - `curl http://localhost:3001/health`, `curl http://localhost:3002/health`, `curl http://localhost:3003/health`, `curl http://localhost:3004/health` - <img width="967" height="187" alt="image" src="https://github.com/user-attachments/assets/8df56146-e39d-410b-804c-c95bc0d33f14" />
+
+### Screnshots of the application running in AWS
+<img width="1630" height="567" alt="image" src="https://github.com/user-attachments/assets/7c69bc45-fa17-4367-85bf-a66b88c44e53" />
+<img width="1645" height="622" alt="image" src="https://github.com/user-attachments/assets/d9ff6aea-c9fa-41b0-964c-19c27e73fbfd" />
+<img width="1627" height="667" alt="image" src="https://github.com/user-attachments/assets/5d454460-e8d0-41cd-93c5-dd301aa1bbbb" />
