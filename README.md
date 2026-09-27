@@ -6,10 +6,10 @@
 
 ### Step 2: Create Dockerfiles for each of the 5 services
 1. User Service - backend/user-service/Dockerfile - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/backend/user-service/Dockerfile
-2. Product Service - backend/product-service/Dockerfile
-3. Cart Service - backend/cart-service/Dockerfile
-4. Cart Service - backend/order-service/Dockerfile
-5. Frontend Dockerfile - frontend/Dockerfile
+2. Product Service - backend/product-service/Dockerfile - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/backend/product-service/Dockerfile
+3. Cart Service - backend/cart-service/Dockerfile - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/backend/cart-service/Dockerfile
+4. Order Service - backend/order-service/Dockerfile - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/backend/order-service/Dockerfile
+5. Frontend Dockerfile - frontend/Dockerfile - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/frontend/Dockerfile
 
 ### Step 3: Build the Docker images
 From the repository root:
@@ -37,14 +37,14 @@ From the repository root:
 6. `docker push suhailm67/ecommerce-frontend:latest` - <img width="1572" height="322" alt="image" src="https://github.com/user-attachments/assets/ebd5216f-2fea-42a1-91c4-ff2dfff18d1d" />
 
 ### Step 6: Create Terraform directory and the required terraform files
-1. Terraform provider -
-2. Variables -
-3. VPC -
-4. Security group -
-5. EC2 instance -
-6. Terraform user-data -
-7. Terraform outputs -
-8. Terraform variables -
+1. Terraform provider -https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/provider.tf
+2. Variables - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/variables.tf
+3. VPC - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/vpc.tf
+4. Security group - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/security.tf
+5. EC2 instance - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/ec2.tf
+6. Terraform user-data - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/user_data.sh
+7. Terraform outputs - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/outputs.tf
+8. Terraform variables - https://github.com/suhailm67-sys/Skill-Test-3-Infrastructure-and-Automation/blob/main/terraform/terraform.tfvars
 
 ### Step 7: Initialize and Deploy Terraform
 1. `terraform init` - <img width="1257" height="510" alt="image" src="https://github.com/user-attachments/assets/c395d8b2-1dca-403e-8493-7c547484cb88" />
