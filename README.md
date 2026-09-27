@@ -29,4 +29,9 @@ From the repository root:
 7. Test backend services - `curl http://localhost:3001/health`, `curl http://localhost:3002/health`, `curl http://localhost:3003/health`, `curl http://localhost:3004/health` and then `docker ps` - <img width="1902" height="306" alt="image" src="https://github.com/user-attachments/assets/fb3bc7f8-6a35-493a-baef-84bdc87a7b53" />
 
 ## Step 5: Push to Docker Hub
-1. Login - `docker login`
+1. Login - `docker login` - <img width="1207" height="157" alt="image" src="https://github.com/user-attachments/assets/d9d534d9-61cf-4508-9ccd-878b1d8fd8ee" />
+2. `docker push suhailm67/ecommerce-user:latest` - <img width="1527" height="277" alt="image" src="https://github.com/user-attachments/assets/ec8b110f-afca-4e63-96ad-29b20989de47" />
+3. `docker push suhailm67/ecommerce-product:latest` - <img width="1546" height="270" alt="image" src="https://github.com/user-attachments/assets/f1d6a73f-f178-4876-8c41-7bdffe3e71f8" />
+4. `docker push suhailm67/ecommerce-cart:latest` - <img width="1531" height="280" alt="image" src="https://github.com/user-attachments/assets/6d714a2c-c2ff-461a-b012-7f7750e37423" />
+5. `docker push suhailm67/ecommerce-order:latest` - <img width="1527" height="285" alt="image" src="https://github.com/user-attachments/assets/8af3d02f-94ee-47a2-a9a5-626076496b5d" />
+6. `docker push suhailm67/ecommerce-frontend:latest` - <img width="1572" height="322" alt="image" src="https://github.com/user-attachments/assets/ebd5216f-2fea-42a1-91c4-ff2dfff18d1d" />
